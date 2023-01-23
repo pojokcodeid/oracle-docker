@@ -23,11 +23,11 @@ grant connect, resource, dba to DBUSER2;
 connect DBUSER2@eis
 --- masukan password tadi = dbuser
 
-Host Name : localhost or 127.0.0.1
-Port : 1521
-Service Name : XEPDB1
-User Name : SYSTEM or SYS ( ROLE : SYSDBA)
-Password : root
+Host Name     : localhost or 127.0.0.1
+Port          : 1521
+Service Name  : XEPDB1
+User Name     : SYSTEM or SYS ( ROLE : SYSDBA)
+Password      : root
 
 Host Name   : localhost 
 Port        : 1521
